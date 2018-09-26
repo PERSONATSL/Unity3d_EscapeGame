@@ -1,4 +1,4 @@
-# Unity3d_EscapeGame
+# UNITY3D_ESCAPEGAME
 
 ## Screen Shots
 
